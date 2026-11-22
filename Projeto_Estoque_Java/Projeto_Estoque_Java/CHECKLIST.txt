@@ -1,0 +1,10 @@
+CHECKLIST ANTES DE ENTREGAR
+[ ] Corrigir sincronização entre remoção do catálogo e árvore.
+[ ] Testar compilação e todas as opções do menu.
+[ ] Executar medições reais com 100, 1.000 e 5.000 produtos.
+[ ] Inserir resultados reais e capturas de tela no relatório.
+[ ] Preencher instituição, turma, autores e data.
+[ ] Criar repositório Git e realizar commits durante o desenvolvimento.
+[ ] Revisar o código para conseguir explicar cada classe e método.
+[ ] Confirmar com o professor se a implementação atende à proposta.
+[ ] Anexar o termo de autoria conforme modelo/orientação da instituição.
